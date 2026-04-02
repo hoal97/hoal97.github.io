@@ -1,5 +1,5 @@
 /*
-	Website made by @hoal97
+	Website made by @alexho97
 	This code is built upon the following template:
 		Arcana by HTML5 UP
 		html5up.net | @ajlkn

@@ -1,4 +1,4 @@
-An unnamed website made by [Alex Ho](https://github.com/hoal97).
+An unnamed website made by [Alex Ho](https://github.com/alexho97).
 
 A series of tools for music theory concepts.
 

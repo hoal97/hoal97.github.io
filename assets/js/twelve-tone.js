@@ -1,4 +1,4 @@
-/* notes.js v1.0.0 | @hoal97 */
+/* notes.js v1.0.0 | @alexho97 */
 
 function convertType(prev_type, new_type) {
     const sharp_notes = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
